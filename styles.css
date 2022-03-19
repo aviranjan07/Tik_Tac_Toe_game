@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: rgb(39, 34, 34);
+    color: white;
+    height: 65px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: 'Inspiration', cursive;
+}
+nav ul {
+    list-style-type: none;
+}
