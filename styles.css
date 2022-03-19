@@ -44,3 +44,12 @@ nav ul {
 .box:hover {
     background-color: rgba(228, 152, 224, 0.219);
 }
+
+.gameInfo {
+    padding: 0 34px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.imgbox img {
+    display: none;
+}
